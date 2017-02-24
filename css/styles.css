@@ -8,3 +8,27 @@
   length: auto;
   margin-top: 30px;
 }
+
+.jumbotron {
+  background: salmon;
+}
+
+.jumbotron h1 {
+  text-align: center;
+
+}
+
+.rules {
+  margin-left: 33%;
+  margin-right: 33%;
+}
+
+.rules h4 {
+  text-align: center;
+}
+
+#bottomHalf {
+  margin-left: 33%;
+  margin-right: 33%;
+  margin-top: 20px;
+}

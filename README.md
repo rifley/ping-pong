@@ -32,4 +32,7 @@
 |replace _identified_ multiples with text | 5 | [1,2,"text",4,"textTwo"]|
 
 
-## Copyright (c) 2016 Copyright Holder All Rights Reserved.
+## Legal
+
+##### Copyright (c) 2017 Riley Watts
+##### This software is licensed under the MIT license.
