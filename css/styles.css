@@ -32,3 +32,8 @@
   margin-right: 33%;
   margin-top: 20px;
 }
+
+.output {
+  color: salmon;
+  padding-top: 2px;
+}

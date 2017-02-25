@@ -33,7 +33,6 @@ var htmlOut = function(input) {
   for (var i = 0; i < input.length; i++) {
     $("#userOutput").append("<li class='output'>"+input[i]+"</li>")
   }
-  $("#userOutput").append("<br>");
 }
 // business logic end
 
